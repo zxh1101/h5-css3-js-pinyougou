@@ -1,0 +1,95 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+header{
+    height:85px;
+    border-bottom: 2px solid #c81523;
+}
+.logo{
+    margin-top: 18px;
+}
+.registerarea{
+    height: 500px;
+    border: 1px solid #ccc;
+}
+.registerarea .title{
+    margin-top: 20px;
+    height: 45px;
+    background-color: #ececec;
+}
+.title_left{
+    float: left;
+    height: 45px;
+    line-height: 45px;
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(51, 51, 51);
+    margin-left: 15px;
+}
+.title_right{
+    float: right;
+    height: 45px;
+    line-height: 45px;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+    margin-right: 15px;
+    font-weight: 700;
+}
+.title_right a{
+    color: #00adef;
+}
+.registerarea_body form{
+    width: 600px;
+    margin: 50px 400px 0;
+}
+.registerarea_body  label{
+    display: inline-block;
+    width: 88px;
+    text-align: right;
+    color: #333333;
+    font-size: 14px;
+}
+.registerarea_body  input{
+    width: 260px;
+    height: 38px;
+    line-height: 38px;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+}
+.registerarea_body .list{
+    margin-top: 20px;
+    color: #333333;
+    font-size: 12px;
+}
+.registerarea_body .list .icon{
+    width: 14px;
+    height: 14px;
+    margin-left: 95px;
+    vertical-align: middle;
+}
+.list_btn{
+    width: 260px;
+    height: 36px;
+    background: #c81523;
+    margin-left: 92px;
+    margin-top: 20px;
+    line-height: 36px;
+    text-align: center;
+    font-size: 16px;
+}
+.list_btn a{
+    color: rgb(249, 251, 253);
+}
+.footer_copyright{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.footer_copyright .link a{
+    padding: 0 15px;
+}
+.footer_copyright .copyright{
+    margin-top: 15px;
+    line-height: 25px;
+    text-align: center;
+}
